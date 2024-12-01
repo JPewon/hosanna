@@ -15,8 +15,8 @@
     "theme":"",
     "text":"",
     "note":"",
-    "home":"", 
-	"family_title":"",
+    "home":"",
+    "family_title":"",
     "family_text":"",
     "family_site":"",
     "hymn_total": 5,
@@ -31,7 +31,9 @@
     "hymn_title5":"",
     "hymn_body5":"",
     "hymn_tag":"",
-    "home_tag":"",  },
+    "home_tag":"",
+    "family_tag":""
+  },
   {
     "month":"11",
     "year":2024,
